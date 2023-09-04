@@ -9,5 +9,6 @@
 | 05  | [Formik Form App](https://github.com/kadirzkaya/React-Formik-Form-App)              | [Webpage](https://kadirzkaya.github.io/React-Formik-Form-App/)              |
 | 06  | [Tour Place App](https://github.com/kadirzkaya/React-Tour-Places-App)               | [Webpage](https://kadirzkaya.github.io/React-Tour-Places-App/)              |
 | 07  | [Static Page App](https://github.com/kadirzkaya/React-Static-Page-App)              | [Webpage](https://kadirzkaya.github.io/React-Static-Page-App/)              |
+| 08  | [Recipe App](https://github.com/kadirzkaya/React-Recipe-App)                        | [Webpage](https://kadirzkaya.github.io/React-Recipe-App/)              |
 
 
