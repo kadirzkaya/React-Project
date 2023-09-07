@@ -11,5 +11,6 @@
 | 07  | [Static Page App](https://github.com/kadirzkaya/React-Static-Page-App)              | [Webpage](https://kadirzkaya.github.io/React-Static-Page-App/)              |
 | 08  | [Recipe App](https://github.com/kadirzkaya/React-Recipe-App)                        | [Webpage](https://kadirzkaya.github.io/React-Recipe-App/)              |
 | 09  | [Expense Tracker App](https://github.com/kadirzkaya/React-Expense-Tracker-App)      | [Webpage](https://kadirzkaya.github.io/React-Expense-Tracker-App/)              |
+| 10  | [Movie App](https://github.com/kadirzkaya/React-Movie-App)                          | [Webpage](https://kadirzkaya.github.io/React-Movie-App/)              |
 
 
